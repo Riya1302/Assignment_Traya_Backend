@@ -1,4 +1,4 @@
-# Neo Surveys:
+# Traya Surveys:
 ### A basic survey web application made using Nodejs and Reactjs with custom data persistence.
 
 ## How to run the project:
